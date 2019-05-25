@@ -9,7 +9,7 @@ h1 { font-family:Kaushan-script;
              src:url('E:/Najis/Docs/RKGZ/Fonts/KaushanScript-Regular.otf');
            }
 @font-face { font-family:pacifico;
-             src:url('E:/Najis/Docs/RKGZ/Fonts/Pacifico.otf');
+             src:url('/rkgz/RKGZ/Fonts/Pacifico.otf');
            }
 p { font-family:pacifico;
     color:darkgreen;
