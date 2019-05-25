@@ -18,16 +18,16 @@ li { font-family:Lobster;
                  100%{transform:rotate(360deg);}
                 }
 @font-face { font-family:sofia;
-             src:url('E:/Najis/Docs/RKGZ/Fonts/pacifico.otf');      
+             src:url('/rkgz/RKGZ/Fonts/pacifico.otf');      
            }
 @font-face { font-family:Lobster;
-             src:url('E:/Najis/Docs/RKGZ/Fonts/Lobster_1.3.otf');      
+             src:url('/rkgz/RKGZ/Fonts/Lobster_1.3.otf');      
            }
 @font-face { font-family:Kaushan-Script;
-             src:url('E:/Najis/Docs/RKGZ/Fonts/KaushanScript-Regular.otf');      
+             src:url('/rkgz/RKGZ/Fonts/KaushanScript-Regular.otf');      
            }
 @font-face { font-family:Chunkfive;
-             src:url('E:/Najis/Docs/RKGZ/Fonts/Chunkfive.otf');      
+             src:url('/rkgz/RKGZ/Fonts/Chunkfive.otf');      
            }
 a { font-family:;
     text-decoration:none;
