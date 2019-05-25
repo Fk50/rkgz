@@ -1,0 +1,91 @@
+li { font-family:Lobster;
+     font-size:34px;
+     color:purple;
+     list-style-image:url("E:/Najis/Docs/RKGZ/Images/q.png");
+     box-shadow:5px 5px 10px 5px purple;
+     border:solid 5px;
+     animation-name:list;
+     animation-duration:4s;
+     animation-iteration-count:1;
+     animation-delay:2s;
+     animation-direction:;
+   }
+@keyframes list {
+                 0% {transform:rotate(0deg);}
+                 30%{transform:rotate(30deg);}
+                 50%{transform:rotate(40deg);}
+                 70%{transform:rotate(-70deg);}
+                 100%{transform:rotate(360deg);}
+                }
+@font-face { font-family:sofia;
+             src:url('E:/Najis/Docs/RKGZ/Fonts/pacifico.otf');      
+           }
+@font-face { font-family:Lobster;
+             src:url('E:/Najis/Docs/RKGZ/Fonts/Lobster_1.3.otf');      
+           }
+@font-face { font-family:Kaushan-Script;
+             src:url('E:/Najis/Docs/RKGZ/Fonts/KaushanScript-Regular.otf');      
+           }
+@font-face { font-family:Chunkfive;
+             src:url('E:/Najis/Docs/RKGZ/Fonts/Chunkfive.otf');      
+           }
+a { font-family:;
+    text-decoration:none;
+    text-weight:bold;
+    font-size:24px;
+  }
+h1 { box-shadow:5px 5px 10px 5px deepskyblue,
+     -5px -5px 10px 5px deepskyblue;
+	 border:solid 5px blue;
+	 position:center;
+     color:navy;
+     font-family:Kaushan-Script;
+     background-color:;
+     text-style:bold;
+     animation-name:head;
+     animation-duration:3s;
+     animation-direction:alternate;
+     animation-iteration-count:infinite;
+   }
+@keyframes head { 
+            0% {border:solid green 10px;}
+            50% {border:solid red 10px;}
+            100%{border:solid steelblue 10px;}
+           }
+h2 {  box-shadow:5px 5px 10px 5px deepskyblue,
+     -5px -5px 10px 5px deepskyblue;
+	 border:solid 5px navy;
+	 position:center;
+      animation-name:head;
+     animation-duration:3s;
+     animation-direction:alternate;
+     animation-iteration-count:infinite;
+   } 
+#1 { box-shadow:5px 5px 10px 5px deepskyblue,
+      -5px -5px 10px 5px deepskyblue ;
+     border:solid blue 10px;  
+      }
+#2 { box-shadow:5px 5px 10px 5px deepskyblue,
+      -5px -5px 10px 5px deepskyblue ;
+     border:solid blue 10px; 
+     transition:width 3s;  
+      }
+#2 { width:300px;
+          }
+h6 { float:center;
+     font-size:25px;
+     border:solid green 7px;
+     color:green;
+     font-family:Chunkfive;
+     box-shadow:5px 5px 10px 5px deepskyblue,
+      -5px -5px 10px 5px deepskyblue ;   
+   }
+body { background-image:url("E:\Najis\Docs\RKGZ\Images\l.jpeg");
+     }
+p { font-family:Chunkfive;
+    color:black;
+  }
+h3 { box-shadow:5px 5px 10px 5px deepskyblue,
+     -5px -5px 10px 5px deepskyblue;
+     border:solid 5px navy;
+   }

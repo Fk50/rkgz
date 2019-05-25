@@ -1,0 +1,19 @@
+h1 { font-family:Kaushan-script;
+     color:purple;
+     background-color:;
+     border:solid purple 10px;
+     font-size=40px;
+     -webkit-box-shadow:5px 5px 10px 5px;
+}
+@font-face { font-family:Kaushan-script;
+             src:url('E:/Najis/Docs/RKGZ/Fonts/KaushanScript-Regular.otf');
+           }
+@font-face { font-family:pacifico;
+             src:url('E:/Najis/Docs/RKGZ/Fonts/Pacifico.otf');
+           }
+p { font-family:pacifico;
+    color:darkgreen;
+    border:solid green 10px;
+    font-size:36px;
+    -webkit-box-shadow:5px 5px 10px 5px;
+}

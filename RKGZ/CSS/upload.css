@@ -1,0 +1,77 @@
+title { font-family:borg9;
+        color:black;
+        text-stye-image:url("icon.ico");
+        text-style-position:inside;
+}
+#v { border:solid deepskyblue 10px;
+     align:center;
+     -webkit-box-shadow:5px 5px 10px 5px grey;
+   }
+
+p { font-family:League-Gothic;
+    font-size:30px;
+    color:black;
+    border:5px solid deepskyblue;
+    -webkit-box-shadow:5px 5px 10px 5px deepskyblue;
+}
+@keyframes name {
+                 0%{transform:rotate(0deg); width:200px; box-shadow:5px 5px 10px 5px green;}
+                 30%{transform:rotate(60deg); width:400px; box-shadow:5px 5px 10px 5px deepskyblue;}
+                 50%{transform:rotate(120eg); width:600px; box-shadow:5px 5px 10px 5px; orange}
+                 70%{transform:rotate(180deg); width:800px; box-shadow:5px 5px 10px 5px; purple}
+                 100%{transform:rotate(360deg); width:1000px; box-shadow:5px 5px 10px 5px; red}
+                }
+span { font-family:borg9;
+       color:steelblue;
+       font-size:30px;
+}
+a { text-decoration:none;
+    font-size:38px;
+    color:navy;
+    -webkit-box-shadow:5px 5px 10px 5px deepskyblue;
+}
+#header { color:deepskyblue;
+           }
+h3 { color:red;
+     font-family:Bebas;
+     font-size:40px;
+     -webkit-box-shadow:5px 5px 10px 5px;
+     animation-name:name;
+    animation-delay:1s;
+    animation-duration:5s;
+    animation-iteration-count:infinite;
+    animation-direction:linear;
+}
+@font-face { font-family:Bebas;
+             src:url('E:/Najis/Docs/RKGZ/Fonts/Bebas-Regular.otf');
+           }
+@font-face { font-family:Kaushan-script;
+             src:url('E:/Najis/Docs/RKGZ/Fonts/KaushanScript-Regular.otf');
+           }
+@font-face { font-family:Chunkfive-Roman;
+             src:url('E:/Najis/Docs/RKGZ/Fonts/Chunkfive.otf');
+           }
+@font-face { font-family:League-Gothic;
+             src:url('E:/Najis/Docs/RKGZ/Fonts/LeagueGothic-CondensedRegular.otf');
+           }
+h4 { font-size:30px;
+     -webkit-box-shadow:5px 5px 10px 5px;
+}
+img { -webkit-box-shadow:5px 5px 10px 5px deepskyblue;
+      border:solid deepskyblue 10px;
+}
+h1 { background-image:url("w.png");
+     font-family:Kaushan-script;
+     text-style-type:none;
+     color:deepskyblue;
+     -webkit-box-shadow:5px 5px 10px 5px;
+     animation-name:head;
+     animation-duration:3s;
+     animation-direction:alternate;
+     animation-iteration-count:infinite;
+}
+@keyframes head { 
+            0% {border:solid green 10px;}
+            50% {border:solid red 10px;}
+            100%{border:solid steelblue 10px;}
+                }
