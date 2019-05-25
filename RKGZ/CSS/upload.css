@@ -43,16 +43,16 @@ h3 { color:red;
     animation-direction:linear;
 }
 @font-face { font-family:Bebas;
-             src:url('E:/Najis/Docs/RKGZ/Fonts/Bebas-Regular.otf');
+             src:url('/rkgz/RKGZ/Fonts/Bebas-Regular.otf');
            }
 @font-face { font-family:Kaushan-script;
-             src:url('E:/Najis/Docs/RKGZ/Fonts/KaushanScript-Regular.otf');
+             src:url('/rkgz/RKGZ/Fonts/KaushanScript-Regular.otf');
            }
 @font-face { font-family:Chunkfive-Roman;
-             src:url('E:/Najis/Docs/RKGZ/Fonts/Chunkfive.otf');
+             src:url('/rkgz/RKGZ/Fonts/Chunkfive.otf');
            }
 @font-face { font-family:League-Gothic;
-             src:url('E:/Najis/Docs/RKGZ/Fonts/LeagueGothic-CondensedRegular.otf');
+             src:url('/rkgz/RKGZ/Fonts/LeagueGothic-CondensedRegular.otf');
            }
 h4 { font-size:30px;
      -webkit-box-shadow:5px 5px 10px 5px;
