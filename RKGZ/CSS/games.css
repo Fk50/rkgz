@@ -19,10 +19,10 @@ h2 { font-size:40px;
      -webkit-box-shadow:5px 5px 10px 5px;
 }
 @font-face { font-family:Bebas;
-             src:url('E:/Najis/Docs/RKGZ/Fonts/Bebas-Regular.otf');
+             src:url('/rkgz/RKGZ/Fonts/Bebas-Regular.otf');
            }
 @font-face { font-family:Kaushan-script;
-             src:url('E:/Najis/Docs/RKGZ/Fonts/KaushanScript-Regular.otf');
+             src:url('/rkgz/RKGZ/Fonts/KaushanScript-Regular.otf');
            }
 a { font-size:30px;
     text-decoration:underlined;
